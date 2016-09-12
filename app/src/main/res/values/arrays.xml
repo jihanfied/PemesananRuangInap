@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spesialis">
+        <item>Mata</item>
+        <item>Penyakit Dalam</item>
+        <item>Kulit</item>
+        <item>THT</item>
+        <item>Tulang</item>
+    </string-array>
+</resources>
