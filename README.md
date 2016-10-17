@@ -3,9 +3,12 @@ memesan ruang inap di Rumah Sakit
 
 * Judul Project : Pemesanan Ruang Inap
 * Screenshoots  :
- * ![PemesenanRuangInap](https://github.com/jihanfied/PemesananRuangInap/blob/master/WhatsApp%20Image%202016-09-14%20at%2018.37.42.jpeg)
- * ![PemesenanRuangInap](https://github.com/jihanfied/PemesananRuangInap/blob/master/WhatsApp%20Image%202016-09-14%20at%2018.37.41.jpeg)
- * ![PemesenanRuangInap](https://github.com/jihanfied/PemesananRuangInap/blob/master/WhatsApp%20Image%202016-09-14%20at%2018.37.43.jpeg)
+ * Sebelum Diisi
+   * ![PemesenanRuangInap](https://github.com/jihanfied/PemesananRuangInap/blob/master/WhatsApp%20Image%202016-09-14%20at%2018.37.42.jpeg)
+ * Sesuah Diisi
+   * ![PemesenanRuangInap](https://github.com/jihanfied/PemesananRuangInap/blob/master/WhatsApp%20Image%202016-09-14%20at%2018.37.41.jpeg)
+ * Hasil
+   * ![PemesenanRuangInap](https://github.com/jihanfied/PemesananRuangInap/blob/master/WhatsApp%20Image%202016-09-14%20at%2018.37.43.jpeg)
 * Aplikasi
   * https://drive.google.com/open?id=0B0obXrd_rXWbZmtBY181b0pMaXM
 * Identitas     :
